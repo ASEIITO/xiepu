@@ -38,7 +38,7 @@ Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2022), "Catching the Political Lead
 ## Links
  [the EPU website](https://www.policyuncertainty.com/)   
 [Economic Policy Uncertainty in China (Developed by Prof. Yu Huang and Prof. Sheung Kan Luk)](https://economicpolicyuncertaintyinchina.weebly.com/)
-https://economicpolicyuncertaintyinchina.weebly.com/
+
 
 ## Contact
 
