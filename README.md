@@ -11,12 +11,20 @@ Baker, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Unc
 We employed a dictionary method by using keywords in table below. For more details, please see Ito, Lim, and Zhang (2023). 
 ![image](https://user-images.githubusercontent.com/63130024/211631099-1b43054b-58db-4d8a-b186-d4111ca6b328.png)
 
-## XiEPU Paper version (November 2012–December 2021, monthly data)
+## XiEPU Paper version 
+Monthly data (November 2012–December 2021)
 ![image](https://user-images.githubusercontent.com/63130024/211631172-5a4b5b18-0419-4944-8125-c853963b3fff.png)
+
+Quarterly data (November 2012–December 2021)
 
 Data download: [Excel]()
 
 ## XiEPU Extended version (November 2012–October 2022)
+We extended our index to the end of October 2022 to cover the first and the second period of the administration.
+
+Monthly data (November 2012–October 2022)
+
+Quarterly data (November 2012–October 2022)
 
 Data download: [Excel]()
 
