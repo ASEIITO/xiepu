@@ -15,9 +15,12 @@ Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2022), "Catching the Political Lead
  
 Baker, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," Quarterly Journal of Economics, vol 131(4), pages 1593-1636.
  
-## Our method
+## Our method and interpretation
 We employed a dictionary method by using keywords in table below. For more details, please see Ito, Lim, and Zhang (2023). 
 ![image](https://user-images.githubusercontent.com/63130024/211631099-1b43054b-58db-4d8a-b186-d4111ca6b328.png)
+
+In our paper, we interpret XiEPU as follow:
+> We argue that XiEPU is a proxy index of President Xi and his administration’s perceptions of economic uncertainty and a signal for related uncertainties, containing important information regarding mid-long-term risks and policy directions facing Chinese firms in particular. 
 
 ## XiEPU Paper version 
 Monthly data (November 2012–December 2021)
