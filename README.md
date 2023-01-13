@@ -43,9 +43,9 @@ Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2022), "Catching the Political Lead
 ```
 
 ## Links
-[Economic Policy Uncertainty Index (Developed by Prof. Scott Baker, Prof. Nicholas Bloom, and Prof. Steven Davis)](https://www.policyuncertainty.com/)   
-[Economic Policy Uncertainty in China (Developed by Prof. Yu Huang and Prof. Sheung Kan Luk)](https://economicpolicyuncertaintyinchina.weebly.com/)
-
+[Economic Policy Uncertainty Index (Developed by Scott Baker, Nicholas Bloom, and Steven Davis)](https://www.policyuncertainty.com/)   
+[Economic Policy Uncertainty in China (Developed by Yu Huang and Sheung Kan Luk)](https://economicpolicyuncertaintyinchina.weebly.com/)
+[Geopolitical Risk (GPR) Index (Developed by Dario Caldara and Matteo Iacoviello)](https://www.matteoiacoviello.com/gpr.htm)
 
 ## Contact
 
