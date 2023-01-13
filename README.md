@@ -4,6 +4,8 @@ This repository provides a dataset of economic policy uncertainty (EPU) using Xi
 
 ・ライセンス考える  
 ・図表延長版作る
+・Plotyでインタラクティブにする？
+https://plotly.com/r/line-charts/
 
 Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2022), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," RIETI Discussion Paper Series, 22-E-081.  
 
