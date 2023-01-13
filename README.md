@@ -2,7 +2,7 @@
 ## Summary
 This repository provides a dataset of economic policy uncertainty (EPU) using Xi Jinping textual data. We developed an original EPU by using a text dataset of the Chinese President’s speeches and reports from November 2012 to December 2021 in our paper (Ito, Lim, and Zhang 2023).
 
-・ライセンス考える
+
 ・キーワードコピペしやすいようにつくるか|--とかで  
 ・図表延長版作る  
 ・Plotyでインタラクティブにする？ 
@@ -37,8 +37,7 @@ Quarterly data (November 2012–October 2022)
 Data download: [Excel]()
 
 ## License and how to cite
-Attribution 4.0 International (CC BY 4.0)
-Please cite as follows:
+This work is licensed under a Creative Commons Attribution 4.0 International License. Please cite as follow:
 ```
 Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2022), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," RIETI Discussion Paper Series, 22-E-081.
 ```
