@@ -48,4 +48,4 @@ Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2022), "Catching the Political Lead
 [Geopolitical Risk (GPR) Index (Developed by Dario Caldara and Matteo Iacoviello)](https://www.matteoiacoviello.com/gpr.htm)
 
 ## Contact
-
+asei[at]iss.u-tokyo.ac.jp
