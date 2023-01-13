@@ -35,8 +35,12 @@ Quarterly data (November 2012–October 2022)
 
 Data download: [Excel]()
 
-## How to cite
+## License and how to cite
+Attribution 4.0 International (CC BY 4.0)
+Please cite as follows:
+```
 Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2022), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," RIETI Discussion Paper Series, 22-E-081.
+```
 
 ## Links
  [the EPU website](https://www.policyuncertainty.com/)   
