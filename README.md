@@ -48,9 +48,9 @@ Quarterly data (November 2012–October 2022)
 Data download: [Excel]()
 
 ## License and how to cite
-This work is licensed under a Creative Commons Attribution 4.0 International License. Please cite as follow:
+Please cite as follows:
 ```
-Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2023), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," __China Economic Review__, 22-E-081.
+Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2023), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," China Economic Review, 22-E-081.
 ```
 
 ## Links
