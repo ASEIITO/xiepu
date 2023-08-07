@@ -31,9 +31,7 @@ While XiEPU contains similar aspects of EPU, it has qualitatively distict featur
 Monthly data (November 2012–December 2021)
 ![image](https://user-images.githubusercontent.com/63130024/211631172-5a4b5b18-0419-4944-8125-c853963b3fff.png)
 
-Quarterly data (November 2012–December 2021)
-
-Data download: [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Dec_2021.xlsx)
+Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Dec_2021.xlsx)
 
 ## License and how to cite
 Please cite as follows:
