@@ -4,7 +4,7 @@ This repository provides a dataset of economic policy uncertainty (EPU) using Xi
 
 
 
-Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2023), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," * *China Economic Review* *, forthcoming.  
+Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2023), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," *China Economic Review*, forthcoming.  
 
 ## Background
  Led by [Baker et al (2016)](https://academic.oup.com/qje/article/131/4/1593/2468873), the EPU has become widely used by academics as well as financial institutions including central banks. As of January 2023 [the EPU website](https://www.policyuncertainty.com/) lists a global index, 28 country indices, and other related indicators.
