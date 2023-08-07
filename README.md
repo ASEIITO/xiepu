@@ -8,7 +8,7 @@ Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2023), "Catching the Political Lead
 ## Background
  Led by [Baker et al (2016)](https://academic.oup.com/qje/article/131/4/1593/2468873), the EPUs have been widely used by academics as well as financial institutions including central banks. As of January 2023 [the EPU website](https://www.policyuncertainty.com/) lists a global index, 28 country indices, and other related indicators.
  
-Baker, Scott, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," *Quarterly Journal of Economics*, vol 131(4), pages 1593-1636.
+- Baker, Scott, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," *Quarterly Journal of Economics*, vol 131(4), pages 1593-1636.
  
 ## Our method and interpretation
 We employed a dictionary method by using keywords of (a) Economic keywords and (c) Uncertain keywords in table below. (b) Policy keywords are not used in our method as the Xi Jinping text inevitably contains policy implications. For more details, please see Ito, Lim, and Zhang (2023). 
