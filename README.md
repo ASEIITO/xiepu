@@ -34,7 +34,7 @@ Monthly data (November 2012–December 2021)
 
 Quarterly data (November 2012–December 2021)
 
-Data download: [Excel]()
+Data download: [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Dec_2021.xlsx)
 
 ## XiEPU Extended version (November 2012–October 2022)
 We extended our index to the end of October 2022 to cover the first and the second period of the administration.
