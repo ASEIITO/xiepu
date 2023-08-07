@@ -24,7 +24,7 @@ We employed a dictionary method by using keywords of (a) Economic keywords and (
 
 Reference  
 -Davis, S. J., Liu, D., & Sheng, X. S. (2019) Economic policy uncertainty in China since 1949: The view from mainland newspapers, Mimeo.  
--Huang, Y., & Luk, P. (2020) Measuring economic policy uncertainty in China. China Economic Review, 59, 101367.  
+-Huang, Y., & Luk, P. (2020) Measuring economic policy uncertainty in China. __China Economic Review__, 59, 101367.  
 
 
 While XiEPU contains similar aspects of EPU, it has qualitatively distict feature compare to conventional EPUs. In our paper, we interpret XiEPU as follow:
@@ -50,7 +50,7 @@ Data download: [Excel]()
 ## License and how to cite
 This work is licensed under a Creative Commons Attribution 4.0 International License. Please cite as follow:
 ```
-Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2022), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," RIETI Discussion Paper Series, 22-E-081.
+Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2023), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," __China Economic Review__, 22-E-081.
 ```
 
 ## Links
