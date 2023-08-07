@@ -3,11 +3,10 @@
 This repository provides a dataset of economic policy uncertainty (EPU) using Xi Jinping textual data. We developed an original EPU by using a text dataset of the Chinese President’s speeches and reports from November 2012 to December 2021 in our paper (Ito, Lim, and Zhang 2023).
 
 
-
 Ito, Asei., Jeahwan Lim, and Hongyong Zhang (2023), "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," *China Economic Review*, forthcoming.  
 
 ## Background
- Led by [Baker et al (2016)](https://academic.oup.com/qje/article/131/4/1593/2468873), the EPU has become widely used by academics as well as financial institutions including central banks. As of January 2023 [the EPU website](https://www.policyuncertainty.com/) lists a global index, 28 country indices, and other related indicators.
+ Led by [Baker et al (2016)](https://academic.oup.com/qje/article/131/4/1593/2468873), the EPUs have been widely used by academics as well as financial institutions including central banks. As of January 2023 [the EPU website](https://www.policyuncertainty.com/) lists a global index, 28 country indices, and other related indicators.
  
 Baker, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," *Quarterly Journal of Economics*, vol 131(4), pages 1593-1636.
  
@@ -35,15 +34,6 @@ Monthly data (November 2012–December 2021)
 Quarterly data (November 2012–December 2021)
 
 Data download: [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Dec_2021.xlsx)
-
-## XiEPU Extended version (November 2012–October 2022)
-We extended our index to the end of October 2022 to cover the first and the second period of the administration.
-
-Monthly data (November 2012–October 2022)
-
-Quarterly data (November 2012–October 2022)
-
-Data download: [Excel]()
 
 ## License and how to cite
 Please cite as follows:
