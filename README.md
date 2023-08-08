@@ -7,7 +7,7 @@ This repository offers an economic policy uncertainty (EPU) dataset derived from
  
  
 ## Our method and interpretation
-We employed a dictionary method by using keywords of (a) Economic keywords and (c) Uncertain keywords in table below. (b) Policy keywords are not used in our method as the Xi Jinping text inevitably contains policy implications. For more details, please see Ito, Lim, and Zhang (2023). 
+Following Baker, Bloom, and Davis (2016), we employed a dictionary method by using keywords of (a) Economic keywords and (c) Uncertain keywords in table below. (b) Policy keywords are not used in our method as the Xi Jinping text inevitably contains policy implications. For more details, please see Ito, Lim, and Zhang (2023). 
 
 
 | Paper               | (a) Economic keywords |(b) Policy keywords |(c) Uncertainty keywords |
