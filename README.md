@@ -3,7 +3,7 @@
 This repository offers an economic policy uncertainty (EPU) dataset derived from textual data related to Chinese President Xi Jinping. In our paper (Ito, Lim, and Zhang 2023), we introduced a Xi Jinping's EPU index named XiEPU. This index is constructed using a text dataset comprising speeches and reports by the Chinese President from November 2012 to December 2021.
 
 ## Background
- Led by [Baker, Bloom, and Davis (2016)](https://academic.oup.com/qje/article/131/4/1593/2468873), the EPUs have been widely used by academics as well as financial institutions including central banks. As of January 2023 [the EPU website](https://www.policyuncertainty.com/) lists a global index, 28 country indices, and other related indicators.
+ Led by Baker, Bloom, and Davis (2016), the EPUs have been widely used by academics as well as financial institutions including central banks. As of January 2023 [the EPU website](https://www.policyuncertainty.com/) lists a global index, 28 country indices, and other related indicators.
  
  
 ## Our method and interpretation
@@ -29,7 +29,7 @@ Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/
 Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPU_until_Sep_2022.xlsx)
 
 ## Reference  
-Baker, Scott, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," *Quarterly Journal of Economics*, vol 131(4), pages 1593-1636.  
+[Baker, Scott, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," *Quarterly Journal of Economics*, vol 131(4), pages 1593-1636.]((https://academic.oup.com/qje/article/131/4/1593/2468873)  
 Davis, Steven J., Dingqian Liu, and Xuguang S. Sheng (2019) "Economic policy uncertainty in China since 1949: The view from mainland newspapers," Mimeo.  
 Huang, Yun and Paul Luk (2020) "Measuring economic policy uncertainty in China," *China Economic Review*, 59, 101367.  
 Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2023) "Catching the Political Leader’s Signal: Economic policy uncertainty and firm investment in China," *China Economic Review*, forthcoming.    
