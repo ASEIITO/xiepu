@@ -22,11 +22,11 @@ While XiEPU contains similar aspects of EPU, it also has a qualitatively distict
 Monthly data  
 ![image](https://user-images.githubusercontent.com/63130024/211631172-5a4b5b18-0419-4944-8125-c853963b3fff.png)
 
-Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Dec_2021.xlsx)
+Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPU_until_Dec_2021.xlsx)
 
 ## XiEPU: Extended version (November 2012–September 2022)
 
-Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Sep_2022.xlsx)
+Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPU_until_Sep_2022.xlsx)
 
 ## Reference  
 Baker, Scott, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," *Quarterly Journal of Economics*, vol 131(4), pages 1593-1636.  
