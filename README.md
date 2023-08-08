@@ -1,8 +1,6 @@
 # XiEPU index
 ## Summary
-This repository provides a dataset of economic policy uncertainty (EPU) using Xi Jinping textual data. We developed an original EPU by using a text dataset of the Chinese President’s speeches and reports from November 2012 to December 2021 in our paper (Ito, Lim, and Zhang 2023). We call this index XiEPU.
-
-
+This repository offers an economic policy uncertainty (EPU) dataset derived from textual data related to Chinese President Xi Jinping. In our paper (Ito, Lim, and Zhang 2023), we introduced an EPU index named XiEPU. This index is constructed using a text dataset comprising speeches and reports by the Chinese President from November 2012 to December 2021.
 
 ## Background
  Led by [Baker, Bloom, and Davis (2016)](https://academic.oup.com/qje/article/131/4/1593/2468873), the EPUs have been widely used by academics as well as financial institutions including central banks. As of January 2023 [the EPU website](https://www.policyuncertainty.com/) lists a global index, 28 country indices, and other related indicators.
