@@ -29,7 +29,7 @@ Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/
 Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPU_until_Sep_2022.xlsx)
 
 ## Reference  
-[Baker, Scott, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," *Quarterly Journal of Economics*, vol 131(4), pages 1593-1636.]((https://academic.oup.com/qje/article/131/4/1593/2468873)  
+[Baker, Scott, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," *Quarterly Journal of Economics*, vol 131(4), pages 1593-1636.](https://academic.oup.com/qje/article/131/4/1593/2468873)  
 Davis, Steven J., Dingqian Liu, and Xuguang S. Sheng (2019) "Economic policy uncertainty in China since 1949: The view from mainland newspapers," Mimeo.  
 Huang, Yun and Paul Luk (2020) "Measuring economic policy uncertainty in China," *China Economic Review*, 59, 101367.  
 Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2023) "Catching the Political Leader’s Signal: Economic policy uncertainty and firm investment in China," *China Economic Review*, forthcoming.    
