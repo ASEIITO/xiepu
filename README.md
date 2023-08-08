@@ -28,7 +28,7 @@ Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/
 
 ## XiEPU: Extended version (November 2012–September 2022)
 
-Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Dec_2021.xlsx)
+Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Sep_2022.xlsx)
 
 ## Reference  
 Baker, Scott, Nicholas Bloom, and Steven J. Davis (2016) "Measuring Economic Policy Uncertainty," *Quarterly Journal of Economics*, vol 131(4), pages 1593-1636.  
