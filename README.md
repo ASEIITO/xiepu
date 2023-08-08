@@ -34,7 +34,7 @@ Davis, Steven J., Dingqian Liu, and Xuguang S. Sheng (2019) "Economic policy unc
 Huang, Yun and Paul Luk (2020) "Measuring economic policy uncertainty in China," *China Economic Review*, 59, 101367.  
 Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2023) "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," *China Economic Review*, forthcoming.    
 
-## License and how to cite
+## How to cite
 Please cite as follows:
 ```
 Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2023) "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," China Economic Review, forthcoming.
