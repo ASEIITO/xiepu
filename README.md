@@ -20,9 +20,13 @@ We employed a dictionary method by using keywords of (a) Economic keywords and (
 While XiEPU contains similar aspects of EPU, it has qualitatively distict feature compare to conventional EPUs. In our paper, we interpret XiEPU as follow:
 > We argue that XiEPU is a proxy index of President Xi and his administration’s perceptions of economic uncertainty and a signal for related uncertainties, containing important information regarding mid-long-term risks and policy directions facing Chinese firms in particular. 
 
-## XiEPU Paper version 
-Monthly data (November 2012–December 2021)
+## XiEPU: Paper version (November 2012–December 2021)
+Monthly data 
 ![image](https://user-images.githubusercontent.com/63130024/211631172-5a4b5b18-0419-4944-8125-c853963b3fff.png)
+
+Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Dec_2021.xlsx)
+
+## XiEPU: Extended version (November 2012–September 2022)
 
 Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/XiEPUs_until_Dec_2021.xlsx)
 
