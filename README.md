@@ -37,7 +37,7 @@ Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2023) "Catching the Political Leader
 ## How to cite
 Please cite as follows:
 ```
-Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2023) "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," China Economic Review, forthcoming.
+Ito, Asei, Jeahwan Lim, and Hongyong Zhang (2023) "Catching the Political Leader’s Signals: Economic policy uncertainty and firm investment in China," China Economic Review, 102035.
 ```
 
 ## Links
